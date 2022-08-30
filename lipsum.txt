@@ -1,0 +1,7 @@
+Learn how to create a responsive website from our codeclass with HTML5 and CSS3. 
+In vulputate lorem quam, id tincidunt odio bibendum eu. Morbi lacinia erat velit, ut lobortis metus laoreet non. 
+Nunc urna augue, aliquet nec ex nec, cursus aliquet orci.
+ 
+Pellentesque auctor magna ultrices cursus maximus. Nunc convallis venenatis magna aliquam dapibus. 
+Morbi in odio tellus. Phasellus porta tortor a sapien imperdiet, et dictum nulla varius. Aliquam nec ex nisi. 
+Nam hendrerit lectus sit amet luctus rutrum.
